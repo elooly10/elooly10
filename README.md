@@ -1,5 +1,5 @@
 - ✋🏻 Hi, We're @elooly10
-- 👀 I’m interested in _coding_
+- 👀 We’re interested in _coding_
 - 💞️ We're looking to collaborate on 
   -  _Ashling Fonts (See Repo)_ 
   -  _Blocklooly (See https://elooly.com/games/block)_
