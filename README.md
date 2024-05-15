@@ -1,7 +1,8 @@
 - ✋🏻 Hi, We're @elooly10
-- 👀 We’re interested in _coding_
+- 👀 We’re interested in _making cool stuff_
 - 💞️ We're looking to collaborate on 
-  -  _Elooly Emoji (See Repo)_ 
+  -  _Elooly Emoji (See Repo)_
+  -  _mh (See Repo)_ 
 - 📫 How to reach us _(See https://github.com/elooly10/elooly10/wiki/Contact for more info on this)_
 - 🧑🏻‍💻 Also Please See https://elooly.com, Our Website!
 - Question to impose: _Where does the 10 come from?_
